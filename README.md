@@ -1,5 +1,5 @@
 # Source repo by mrpond: https://github.com/mrpond/BlockTheSpot
-Download [BlockTheSpot.bat](https://raw.githack.com/gnoucla/bts/master/BlockTheSpot.bat) and run it after installing desired Spotify version.
+Download [BlockTheSpot.bat](https://raw.githack.com/gnoucla/bts/main/BlockTheSpot.bat) and run it after installing desired Spotify version.
 
 
 <br>
