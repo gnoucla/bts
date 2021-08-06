@@ -1,3 +1,7 @@
+# Source repo by mrpond: https://github.com/mrpond/BlockTheSpot
+
+<br>
+
 # Disable auto update
 
 ###### Source: https://www.youtube.com/watch?v=lPUFzDes_Eg
