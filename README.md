@@ -18,7 +18,7 @@ Works for version 1.1.62 [LINK TO DOWNLOAD](https://spotify.en.uptodown.com/wind
 3. Download and Install 1.1.62 version
 4. Start Spotify but **DO NOT LOG IN**
 5. Create and make **READ ONLY** a `Spotify_new.exe` file in `AppData\Roaming\Spotify` directory
-6. Create and **DENY all permissions** from *all users* to `Update` folder in `AppData\Local\Spotify` directory
+6. Create and **DENY all permissions** from *all users* an `Update` folder in `AppData\Local\Spotify` directory
 7. Log in with Remember me checked.
 
 #### How to undo
