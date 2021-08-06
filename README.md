@@ -21,7 +21,7 @@ Works for version 1.1.62 [LINK TO DOWNLOAD](https://spotify.en.uptodown.com/wind
 6. Create and **DENY all permissions** from *all users* an `Update` folder in `AppData\Local\Spotify` directory
 7. Log in with Remember me checked.
 
-#### How to undo
+#### How to resume auto update or update spotify
 1. Navigate to `AppData\Local\Spotify` directory
 2. Undo permissions changes to `Update` folder
 
